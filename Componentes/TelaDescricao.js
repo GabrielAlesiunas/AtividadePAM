@@ -7,7 +7,7 @@ export default function TelaDescricao () {
     <View style={estilo.container}>
       <Text style={estilo.resumo}>
         Resumo dos  filmes:
-      </Text>
+      </Text> <br/>
         <Text style={estilo.descricao}>
           Tropa de Elite e Tropa de Elite 2 são dois filmes nacionais, de 2007 e 2010 respectivamente, que retratam o dia a dia do Batalhão de Operações Especiais do Rio de Janeiro (BOPE).
       </Text>
