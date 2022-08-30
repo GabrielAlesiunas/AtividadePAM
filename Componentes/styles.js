@@ -7,7 +7,6 @@ const estilo = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    padding: 250,
   },
   titulo: {
     fontSize: 25,
@@ -27,10 +26,6 @@ const estilo = StyleSheet.create({
     fontSize: 18,
     marginBottom: 20,
     fontFamily: "Arial",
-  },  
-  scrollView:{
-    backgroundColor: 'pink',
-    marginHorizontal: 20,
   }
 });
 

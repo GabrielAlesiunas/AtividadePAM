@@ -6,7 +6,7 @@ import universal from '../assets/universal.png';
 export default function TelaHome () {
   return (
     <View style={estilo.container}>
-      <Image source={universal} style={{ width: 1000, height: 510 }} />
+      <Image source={universal} style={{ width: '100%', height:300 }} />
     </View>
     
 
